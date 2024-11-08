@@ -4,7 +4,7 @@
 
 # 🤖️ TeleChat
 
-[English](README.md) | [Chinese](README_CN.md)
+[English](README.md)
 
 <p align="center">
   <a href="https://t.me/+_01cz9tAkUc1YzZl">
